@@ -10,6 +10,7 @@
 
 
 ## Results
+We report the box mAP of Faster R-CNN and seg mAP of Mask R-CNN.
 | Batch Size        | 32   | 256  | 512  |
 |-------------------|------|------|------|
 | Faster R-CNN Base | 37.1 | 36.7 | 36.2 |
