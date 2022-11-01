@@ -1,6 +1,6 @@
 # AGVM
 
-**This repo is the official implementation of "Large-batch Optimization for Dense Visual Predictions".** Since we adopted private frameworks (POD and LinkLink) to conduct the experiments previously, the results open-sourced with mmdetection will be slightly different from the results in our paper. 
+**This repo is the official implementation of "Large-batch Optimization for Dense Visual Predictions (NeurIPS 2022)".** Since we adopted private frameworks (POD and LinkLink) to conduct the experiments previously, the results open-sourced with mmdetection will be slightly different from the results in our paper. 
 
 
 ## Training
